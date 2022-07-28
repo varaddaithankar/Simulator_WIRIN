@@ -1,10 +1,5 @@
 # Self-Driving-Car-on-Indian-Roads
-Computer Vision Guided Deep Learning Network &amp; Machine Learning Techniques to build Fully-Functional Autonomous Vehicles
 
-![](prediction_output.gif)  
-
-More Details of the Project here:
-https://medium.com/@AnandAI/self-driving-car-on-indian-roads-4e305cb04198
 
 
 # How to Use?
